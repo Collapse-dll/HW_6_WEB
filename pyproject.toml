@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "goit-pyweb-hw-06"
+name = "HW_6_WEB"
 version = "0.1.0"
 description = ""
 authors = ["SaitovMykyta <rassskoll@gmail.com>"]
